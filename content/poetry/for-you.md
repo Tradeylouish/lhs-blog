@@ -2,7 +2,7 @@
 date = '2019-11-24T22:29:44+12:00'
 draft = true
 title = 'For You'
-tags = ["ABAB"]
+tags = ["ABAB", "meta"]
 +++
 Roses are red  
 Violets are blue  

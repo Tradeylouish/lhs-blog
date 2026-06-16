@@ -2,6 +2,7 @@
 date = '2007-01-01T00:00:00Z'
 draft = false
 title = 'meaning'
+tags = ["AABB", "meta"]
 +++
 Poems are sure  
 To help people explore  
@@ -10,4 +11,4 @@ And some can cause great strife
 
 ---
 
-*Note: Actual date unknown*
+*Note: Actual authorship date unknown*
