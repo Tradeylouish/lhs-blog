@@ -1,5 +1,5 @@
 +++
-date = '2019-04-01T09:56:06Z'
+date = '2007-01-01T00:00:00Z'
 draft = false
 title = 'dismay'
 tags = ["AABB"]
@@ -10,3 +10,7 @@ Onto the road in rush hour
 And quickly there cower  
 But not run away  
 Much to your dismay
+
+---
+
+*Actual authorship date unknown*

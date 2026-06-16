@@ -18,3 +18,7 @@ For now these precious souls have hopped their last
 Cruel verdicts made to seal them a grim fate  
 So now is time to fly the flags half-mast  
 The rabbits' lease hath all too short a date
+
+---
+
+*Performed live in honour of the lives of the late [Mt Eden rabbits](https://www.stuff.co.nz/environment/300350292/auckland-rabbit-owners-ordered-to-get-rid-of-300-pets-after-neighbours-complain)*

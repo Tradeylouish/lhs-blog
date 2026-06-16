@@ -2,7 +2,7 @@
 date = '2020-03-13T20:57:12Z'
 draft = false
 title = 'mountain'
-tags = ["iambic pentameter"]
+tags = ["iambic pentameter", "AABB"]
 +++
 A mountain towers high above a hill  
 The lesser summit stays a victory still  
@@ -33,3 +33,7 @@ A mountain may erode yet stand an age
 Therefore no rush to turn your story's page  
 Best take the rest you need to climb again  
 Just love yourself you're set until the end
+
+---
+
+* Rewrite of [The Mountain](https://www.reddit.com/r/Poetry/comments/tz9r98/poem_a_poem_by_laura_dingedwards/) by Laura Ding-Edwards (because I'm an ABCB hater). Shamelessly steals from both Shakespeare and Lady Gaga.*

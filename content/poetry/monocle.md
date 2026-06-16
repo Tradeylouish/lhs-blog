@@ -10,5 +10,6 @@ Protection is hot
 Lest an eye be bloodshot  
 Though you may not be able to far see
 
+---
 
-
+*In reference to the [Gentleman's Single-Use Unlubricated Monocle](https://www.kickstarter.com/projects/weiner/the-gentlemans-single-use-monocle)*
