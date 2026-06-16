@@ -36,4 +36,4 @@ Just love yourself you're set until the end
 
 ---
 
-* Rewrite of [The Mountain](https://www.reddit.com/r/Poetry/comments/tz9r98/poem_a_poem_by_laura_dingedwards/) by Laura Ding-Edwards (because I'm an ABCB hater). Shamelessly steals from both Shakespeare and Lady Gaga.*
+*Rewrite of [The Mountain](https://www.reddit.com/r/Poetry/comments/tz9r98/poem_a_poem_by_laura_dingedwards/) by Laura Ding-Edwards (because I'm an ABCB hater). Shamelessly steals from both Shakespeare and Lady Gaga.*
