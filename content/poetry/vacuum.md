@@ -5,7 +5,7 @@ title = 'vacuum'
 tags = ["iambic pentameter", "ABAB"]
 +++
 Why has our Zip forsaken us so soon    
-It's warranty hath all too short a date    
+Its warranty hath all too short a date    
 What's in a name? AirPower sounds a boon    
 Misnomers flagrant as that seal its fate
 

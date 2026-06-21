@@ -2,7 +2,7 @@
 date = '2019-02-28T06:16:45Z'
 draft = false
 title = 'hats'
-tags = ["AABB"]
+tags = ["AABB", "internal rhyme"]
 +++
 Hey girl you should know that I have eyes for only you  
 Can't tear my gaze away regardless of your headwear's hue  
