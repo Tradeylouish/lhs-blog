@@ -11,4 +11,4 @@ And some can cause great strife
 
 ---
 
-*Note: Actual authorship date unknown*
+*Actual authorship date unknown*
