@@ -2,7 +2,7 @@
 date = '2019-11-09T02:39:32Z'
 draft = false
 title = 'mewse'
-tags = ["AABBA", "internal rhyme"]
+tags = ['AABBA', 'internal rhyme']
 +++
 Can't resist the sky's rich deep blue hues  
 Paw-fect day for a sketch of my mewse  

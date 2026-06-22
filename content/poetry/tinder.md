@@ -2,7 +2,7 @@
 date = '2020-02-15T05:35:48Z'
 draft = false
 title = 'tinder'
-tags = ["acrostic", "AABB", "meta"]
+tags = ['acrostic', 'AABB', 'meta']
 +++
 Each bio should be poetry  
 Acrostic and AABB  

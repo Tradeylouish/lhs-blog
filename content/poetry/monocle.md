@@ -2,7 +2,7 @@
 date = '2020-01-18T22:57:43Z'
 draft = false
 title = 'monocle'
-tags = ["AABBA"]
+tags = ['AABBA']
 +++
 You don't want your eyes going glassy  
 Unless it's external and classy  

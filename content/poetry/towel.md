@@ -2,7 +2,7 @@
 date = '2007-01-01T00:00:00Z'
 draft = false
 title = 'towel'
-tags = ["AABB"]
+tags = ['AABB']
 +++
 A towel is a tool  
 That is very usefool  

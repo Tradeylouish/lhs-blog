@@ -2,7 +2,7 @@
 date = '2021-06-28T13:16:45+13:00'
 draft = false 
 title = 'vacuum'
-tags = ["iambic pentameter", "ABAB"]
+tags = ['iambic pentameter', 'ABAB']
 +++
 Why has our Zip forsaken us so soon    
 Its warranty hath all too short a date    

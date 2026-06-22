@@ -2,7 +2,7 @@
 date = '2021-09-01T01:29:47Z'
 draft = false
 title = 'rabbits'
-tags = ["iambic pentameter", "ABAB"]
+tags = ['iambic pentameter', 'ABAB']
 +++
 Ancestral lines are often hard to trace  
 Forebears doth stretch at times to days of yore  

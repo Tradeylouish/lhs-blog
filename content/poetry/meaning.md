@@ -2,7 +2,7 @@
 date = '2007-01-01T00:00:00Z'
 draft = false
 title = 'meaning'
-tags = ["AABB", "meta"]
+tags = ['AABB', 'meta']
 +++
 Poems are sure  
 To help people explore  

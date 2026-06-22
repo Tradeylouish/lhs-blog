@@ -2,7 +2,7 @@
 date = '2025-09-15T13:52:19+12:00'
 draft = false
 title = 'govern'
-tags = ["acrostic"]
+tags = ['acrostic']
 +++
 Get  
 On  
