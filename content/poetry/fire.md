@@ -5,7 +5,7 @@ title = 'fire'
 tags = ['ABAB', 'meta', 'sonnet']
 +++
 The poets say desire is like a flame  
-Though none alive have truly known the fire;  
+Though none alive have truly known fire;  
 One may be burnt but that is not the same  
 As flesh begetting bones upon a pyre.  
 
@@ -25,3 +25,5 @@ And so I sit and contemplate the sparks.
 ---
 
 *Inspired by Sappho [31](https://digitalsappho.org/fragments/fr31/) and [48](https://digitalsappho.org/fragments/fr48/) (Diane Rayor's [translation](https://www.goodreads.com/en/book/show/63827321-sappho) recommended), which associate πῦρ (fire) and καίω (to burn) with πτοέω (to be excited by passion) and πόθος (desire). I think it's cool that this metaphoric tradition continues in English poetry, for example Shakespeare's [Sonnet 45](https://www.folger.edu/explore/shakespeares-works/shakespeares-sonnets/read/45/) and Robert Frost's [Fire and Ice](https://en.wikipedia.org/wiki/Fire_and_Ice_(poem)). Now we can even rhyme fire / desire, a valuable linguistic innovation!*
+
+*Note "known fire" only works in the meter with a disyllabic pronunciation of "known", which after some flip-flopping I decided I liked since it turns out to be an [NZ English quirk](https://www.stuff.co.nz/national/education/126121179/language-matters-the-knowen-and-the-unknowen).*
